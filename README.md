@@ -10,7 +10,7 @@ The GoTreeScape prototype system achieves users' exploratory design for tree vis
 Users can flexibly adjust the displayed range of landscape according to their requirements. For the top-down exploration mode, users can decide the range of subsequent explorations interactively according to the landmarks. Additionally, users can zoom into the view and show tree visualizations at a finer granularity and zooming out to change the determined design dimension. Our interface also supports users to filter for the exploratory design on the landscape panel. For example, the view will be updated accordingly according to the provided input query in (e). For the bottom-up mode, we implement a data uploading panel (d), which allows users to upload a tree visualization of GoTree grammar in JSON format. GoTreeScape also provides them with a collection of classic tree visualizations in (c).
 
 
-![alt text](https://github.com/gotreescape/gotreescape/Figures/gotreescape-user-interface1.png?raw=true)
+![alt text](https://github.com/gotreescape/gotreescape/blob/figures/Figures/gotreescape-user-interface1.png?raw=true)
 
 ## GoTreeScape backend
 ```
