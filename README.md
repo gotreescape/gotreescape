@@ -48,6 +48,9 @@ npm run build
 
 # Tree visualization GVAE model based on GoTree
 This treevis-gvae/ folder contains the GVAE model for tree visualizations based on the code of the original GVAE.
+* main.py - the entry for training the GVAE model
+* dimensionality reduction results according to different techniques: mds/, tsne/, umap/
+* The generated training and testing datasets: trainingdata/
 
 
 

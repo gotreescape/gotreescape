@@ -1,11 +1,7 @@
 ##################################################
-## Generic VAE model
-## This code is based on https://github.com/mkusner/grammarVAE
+## the weighted VAE model model
+## This code is based on grammar-based VAE model (https://github.com/mkusner/grammarVAE)  and ChartSeer (https://github.com/jeffjianzhao/ChartSeer)
 ##################################################
-## Author: Jian Zhao
-## Contact: jeffjianzhao@gmail.com
-##################################################
-
 from keras import backend as K
 from keras import objectives
 from keras import optimizers

@@ -1,10 +1,7 @@
 ##################################################
-## CFG grammar for VegaLite visualizations
-## This code is based on https://github.com/mkusner/grammarVAE
-##################################################
-## Author: Jian Zhao
-## Contact: jeffjianzhao@gmail.com
-##################################################
+## CFG grammar for tree visualizations based on GoTree Grammar
+## This code is based on grammar-based VAE model (https://github.com/mkusner/grammarVAE)  and ChartSeer (https://github.com/jeffjianzhao/ChartSeer)
+#################################################
 
 import nltk
 import six

@@ -1,8 +1,6 @@
 ##################################################
 ## Modeling training of the weighted variational model scripts 
-## This code is based on https://github.com/mkusner/grammarVAE and ChartSeer by Jeffrey Jian Zhao
-##################################################
-## Author: Guozheng Li
+## This code is based on grammar-based VAE model (https://github.com/mkusner/grammarVAE)  and ChartSeer (https://github.com/jeffjianzhao/ChartSeer)
 ##################################################
 
 from __future__ import print_function
