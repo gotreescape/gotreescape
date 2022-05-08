@@ -1,7 +1,0 @@
-{ "name": "A",
-   "children": [
-      { "name": "B", "value": 1},
-      { "name": "C", "value": 1},
-      { "name": "D", "value": 1}
-    ]
-}
